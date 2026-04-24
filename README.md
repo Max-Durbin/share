@@ -1,4 +1,4 @@
-Short scripts or tools that don't justify a repo
+Short scripts or tools that don't justify a repo - but that are still clean enough that they might be usefull again later
 
 ### perf_monitoring_weighted_average_stats.py
 Breaks a csv file containing data with goal times and performance times into groups of some attribute and weights each group proportional to time donated.
